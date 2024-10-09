@@ -1,0 +1,25 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="10">
+            <item index="0" class="java.lang.String" itemvalue="python-socketio" />
+            <item index="1" class="java.lang.String" itemvalue="rsa" />
+            <item index="2" class="java.lang.String" itemvalue="simple-websocket" />
+            <item index="3" class="java.lang.String" itemvalue="pyaes" />
+            <item index="4" class="java.lang.String" itemvalue="Telethon" />
+            <item index="5" class="java.lang.String" itemvalue="python-engineio" />
+            <item index="6" class="java.lang.String" itemvalue="h11" />
+            <item index="7" class="java.lang.String" itemvalue="pyasn1" />
+            <item index="8" class="java.lang.String" itemvalue="bidict" />
+            <item index="9" class="java.lang.String" itemvalue="wsproto" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  </profile>
+</component>
